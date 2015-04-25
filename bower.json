@@ -1,0 +1,28 @@
+{
+  "name": "edux",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Gaytan <dgaytan6@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "educacion",
+    "calificaciones",
+    "maestros"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "semantic-ui": "~1.11.4"
+  }
+}
