@@ -1,3 +1,3 @@
-logs
+logs/*.log
 public/vendor
 node_modules/
